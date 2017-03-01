@@ -34,3 +34,5 @@ and change some function by Zidong Lin(梓栋 林)
 2. ChangeParticleColor
 3. SpawnRandomCubes
 4. Change the Icon & ProductName
+
+![](../Screenshot_2017-02-23-09-20-51-178_com.udacity.Zi.png)
